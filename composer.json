@@ -1,0 +1,22 @@
+{
+    "name": "nacoma/elastic-query-builder",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nacoma\\ElasticQueryBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cody Mann",
+            "email": "nathancodymann@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "nesbot/carbon": ">=2.67.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.11"
+    }
+}
