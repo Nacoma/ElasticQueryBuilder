@@ -17,6 +17,7 @@
         "nesbot/carbon": ">=2.67.0"
     },
     "require-dev": {
-        "phpstan/phpstan": "^1.11"
+        "phpstan/phpstan": "^1.11",
+        "spatie/elasticsearch-query-builder": "^3.0"
     }
 }
